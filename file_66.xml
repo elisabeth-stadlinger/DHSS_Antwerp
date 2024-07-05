@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+     <editor>
+       <persName>
+         <forename>Elisabeth</forename>
+         <surname>Stadlinger</surname>
+       </persName>
+     </editor>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5363" lry="7115" xml:id="facs_66">
+         <graphic url="0066_066_31v.jpeg" width="5363px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NUHCKMPDUMNPBOMWOWQOUSPQ&amp;fileType=view" width="5363px" height="7115px"/>
+         <zone points="149,353 5085,353 5085,709 149,709" rendition="TextRegion" xml:id="facs_66_r_1323" subtype="page-number">
+            <zone points="4547,312 4767,312 4767,519 4547,519" rendition="Line" xml:id="facs_66_tr_1_tl_1"/>
+         </zone>
+         <zone points="149,709 5085,709 5085,6591 149,6591" rendition="TextRegion" xml:id="facs_66_r_1324">
+            <zone points="153,917 4834,917 4834,1332 153,1332" rendition="Line" xml:id="facs_66_tr_1_tl_2"/>
+            <zone points="159,1241 5072,1241 5072,1607 159,1607" rendition="Line" xml:id="facs_66_tr_1_tl_3"/>
+            <zone points="177,1479 4920,1479 4920,1894 177,1894" rendition="Line" xml:id="facs_66_tr_1_tl_4"/>
+            <zone points="196,1821 5005,1821 5005,2218 196,2218" rendition="Line" xml:id="facs_66_tr_1_tl_5"/>
+            <zone points="177,2157 1112,2157 1112,2432 177,2432" rendition="Line" xml:id="facs_66_tr_1_tl_6"/>
+            <zone points="978,2402 5005,2402 5005,2842 978,2842" rendition="Line" xml:id="facs_66_tr_1_tl_7"/>
+            <zone points="177,2768 1375,2768 1375,3111 177,3111" rendition="Line" xml:id="facs_66_tr_1_tl_8"/>
+            <zone points="1027,3007 5072,3007 5072,3398 1027,3398" rendition="Line" xml:id="facs_66_tr_1_tl_9"/>
+            <zone points="159,3325 4987,3325 4987,3691 159,3691" rendition="Line" xml:id="facs_66_tr_1_tl_10"/>
+            <zone points="196,3642 5017,3642 5017,4046 196,4046" rendition="Line" xml:id="facs_66_tr_1_tl_11"/>
+            <zone points="116,3936 2530,3936 2530,4333 116,4333" rendition="Line" xml:id="facs_66_tr_1_tl_12"/>
+            <zone points="1192,4235 1986,4235 1986,4559 1192,4559" rendition="Line" xml:id="facs_66_tr_1_tl_13"/>
+            <zone points="1228,4504 4926,4504 4926,4907 1228,4907" rendition="Line" xml:id="facs_66_tr_1_tl_14"/>
+            <zone points="208,4822 4968,4822 4968,5207 208,5207" rendition="Line" xml:id="facs_66_tr_1_tl_15"/>
+            <zone points="171,5115 4565,5115 4565,5506 171,5506" rendition="Line" xml:id="facs_66_tr_1_tl_16"/>
+            <zone points="159,5378 4877,5378 4877,5787 159,5787" rendition="Line" xml:id="facs_66_tr_1_tl_17"/>
+            <zone points="153,5726 5042,5726 5042,6105 153,6105" rendition="Line" xml:id="facs_66_tr_1_tl_18"/>
+            <zone points="183,5995 4669,5995 4669,6368 183,6368" rendition="Line" xml:id="facs_66_tr_1_tl_19"/>
+            <zone points="177,6325 4700,6325 4700,6753 177,6753" rendition="Line" xml:id="facs_66_tr_1_tl_20"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_66" n="66" xml:id="img_0066"/><fw type="page-number" facs="#facs_66_r_1323" place="top">
+               <l facs="#facs_66_tr_1_tl_1" n="N001"><add hand="#unknown" place="marginright" rend="pencil" resp="#ES">30</add></l></fw><lb/>
+            <p facs="#facs_66_r_1324" type="">
+               <l facs="#facs_66_tr_1_tl_2" n="N001">no good talking any more about it, <rs type="person" key="Watson, John" firstname="John" lastname="Watson">Watson</rs>, but unless some</l>
+               <l facs="#facs_66_tr_1_tl_3" n="N002">lucky chance comes our way. I fear that the <rs type="place">Norwood</rs> Disappearance</l>
+               <l facs="#facs_66_tr_1_tl_4" n="N003">case will not figure <del>among</del> in that chronicle of our successes</l>
+               <l facs="#facs_66_tr_1_tl_5" n="N004">which I foresee that a patient public will sooner or later have</l>
+               <l facs="#facs_66_tr_1_tl_6" n="N005">to endure."</l>
+               <l facs="#facs_66_tr_1_tl_7" n="N006" rend="indent">"Surely" said I "the man's appearance would go far</l>
+               <l facs="#facs_66_tr_1_tl_8" n="N007">with any Jury<corr>.</corr>"</l>
+               <l facs="#facs_66_tr_1_tl_9" n="N008" rend="indent">"That is a dangerous argument, my dear <rs type="person" key="Watson, John" firstname="John" lastname="Watson">Watson</rs>. You</l>
+               <l facs="#facs_66_tr_1_tl_10" n="N009">remember that terrible murderer <rs type="person" key="Stevens, Bert" firstname="Bert" lastname="Stevens">Bert Stevens</rs> who wanted us</l>
+               <l facs="#facs_66_tr_1_tl_11" n="N010">to get him off in <unclear><date when="1887">'87</date></unclear> - was there ever a more mild mannered</l>
+               <l facs="#facs_66_tr_1_tl_12" n="N011">Sunday school young man?"</l>
+               <l facs="#facs_66_tr_1_tl_13" n="N012" rend="indent">"It is true<corr>.</corr>"</l>
+               <l facs="#facs_66_tr_1_tl_14" n="N013" rend="indent">"Unless we succeed in establishing an alternative</l>
+               <l facs="#facs_66_tr_1_tl_15" n="N014">theory this man is lost. You can hardly find a flaw in the case</l>
+               <l facs="#facs_66_tr_1_tl_16" n="N015">which can now be presented against him and all further</l>
+               <l facs="#facs_66_tr_1_tl_17" n="N016">investigation has served to strengthen it. By the way there is</l>
+               <l facs="#facs_66_tr_1_tl_18" n="N017">one curious little point about those papers which may serve us</l>
+               <l facs="#facs_66_tr_1_tl_19" n="N018">as the starting point for an inquiry. On looking over the</l>
+               <l facs="#facs_66_tr_1_tl_20" n="N019">bank book I found that the low state of the balance was</l>
+            </p></div>
+      </body>
+   </text>
+</TEI>
